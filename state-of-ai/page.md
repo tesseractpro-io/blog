@@ -11,3 +11,16 @@ Using all the data from Tesseract Pro, I have been able to build and train multi
 In the following screenshot you see multiple circles displayed on screen, this is where the AI model has predicted the next turning points will be. Green highlighted circles indicate a direct hit.
 
 ![Tesseract Pro AI - Bitcoin 32min](https://tesseractpro-io.github.io/state-of-ai/tpro-ai-btc.png)
+
+In the example above, I utilized two models and integrated them into one prediction:
+
+**Price model**: This model analyzes all available historical data for the selected market, dividing it into segments based on the cycles and quadrants of the timeframe. It then predicts the future price movement based on these patterns and trends.
+
+**Turning point model**: This model is pivotal in the prediction process. By training on all the available turning points within Tesseract Pro, it tries to forecast the location of the next turning point. This model considers factors such as cycles, quadrants, and the PRI (Price Range Index) range to make its prediction.
+
+# Training data
+
+Training and validating of the AI models used by Tesseract Pro works by anonymousing the user data before processing. Protecting user data and maintaining privacy and security standards is a critical ethical consideration when integrating AI into Tesseract Pro, because of this I have included an option under the [Account Settings](https://www.tesseractpro.io/account) of every user to opt-out of the datacollection of the AI model. This means we will not use your data to train or validate the Tesseract Pro AI models. **You are in control**
+
+By using constantly updating the model with the latest confirmed turningpoints, the model will (hopefully) improve over time. 
+
