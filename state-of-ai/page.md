@@ -9,4 +9,4 @@ hello test.
 - C
 - d
 
-![Tesseract Pro AI - Bitcoin 32min](tpro-ai-btc.jpeg)
+![Tesseract Pro AI - Bitcoin 32min](https://tesseractpro-io.github.io/state-of-ai/tpro-ai-btc.jpeg)
