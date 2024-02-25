@@ -8,6 +8,6 @@ AI models operate on the basis of learning patterns and making predictions or de
 
 Using all the data from Tesseract Pro, I have been able to build and train multiple models which are being used forecast the next turning points and their confidence score ranging from 0% to 100%. I use a approach that is called *model stacking*. In this technique, the predictions and outputs are combined to generate the final prediction.
 
-In the following screenshot you see multiple circles displayed on screen, this is where the AI model has predicted the next turning points will be.
+In the following screenshot you see multiple circles displayed on screen, this is where the AI model has predicted the next turning points will be. Green highlighted circles indicate a direct hit.
 
 ![Tesseract Pro AI - Bitcoin 32min](https://tesseractpro-io.github.io/state-of-ai/tpro-ai-btc.png)
