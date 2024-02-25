@@ -1,6 +1,6 @@
 # The Tesseract Pro Ecosystem
 
-Tesseract Pro holds a unique position; we possess an exceptional platform accompanied by vast amounts of data. As of the time of writing, we have over 50GB of market data spanning multiple markets and years. Additionally, our users have manually annotated millions of data points in the form of Markers and Turning points.
+Tesseract Pro holds a unique position; we possess an exceptional platform accompanied by vast amounts of data. As of the time of writing, we have over 50GB of market data spanning multiple markets and years. Additionally, our users have manually annotated millions of usefull data points in the form of Markers and Turning points.
 
 # AI models
 
