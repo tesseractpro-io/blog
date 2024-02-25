@@ -6,7 +6,7 @@ Tesseract Pro holds a unique position; we possess an exceptional platform accomp
 
 AI models operate on the basis of learning patterns and making predictions or decisions based on data. At their core, these models employ algorithms that iteratively process input data to identify underlying patterns and relationships. The process involves training the model on a labeled dataset, where it learns to recognize patterns through repeated exposure to examples. Once trained, the model can generalize its understanding to make predictions or decisions on new, unseen data.
 
-Using all the data from Tesseract Pro, I have been able to build and train multiple models which are being used forecast the next turning points and their confidence score ranging from 0% to 100%. I use a approach that is called *model stacking*. In this technique, the predictions and outputs are combined to generate the final prediction.
+Using all the data from Tesseract Pro, I have been able to build and train multiple models which are being used to forecast the next turning points and their confidence score ranging from 0% to 100%. I use a approach that is called *model stacking*. In this technique, the predictions and outputs from different models are combined to generate the final prediction.
 
 In the following screenshot you see multiple circles displayed on screen, this is where the AI model has predicted the next turning points will be. Green highlighted circles indicate a direct hit.
 
@@ -22,7 +22,7 @@ In the example above, I utilized two models and integrated them into one predict
 
 Training and validating of the AI models used by Tesseract Pro works by anonymousing the user data before processing. Protecting user data and maintaining privacy and security standards is a critical ethical consideration when integrating AI into Tesseract Pro, because of this I have included an option under the [Account Settings](https://www.tesseractpro.io/account) of every user to opt-out of the datacollection of the AI model. This means we will not use your data to train or validate the Tesseract Pro AI models. **You are in control**
 
-By using constantly updating the model with the latest confirmed turningpoints, the model will (hopefully) improve over time. 
+By constantly updating the model with the latest confirmed turningpoints, the model will (hopefully) improve over time. 
 
 # Now what?
 
