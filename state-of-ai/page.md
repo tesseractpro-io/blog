@@ -32,7 +32,7 @@ Next to predicting turning points and plot them on your chart, we will be able t
 - Automatic buy/sell orders
 - Signals on important events
 - Signaling when market conditions change unexpectedly
-- [...Your feature request here...] 😉
+- *[...Your feature request here...]* 😉
 
 # Now what?
 
